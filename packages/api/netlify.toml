@@ -1,0 +1,8 @@
+[build]
+    command ="pnpm run build"
+    functions="dist"
+
+[[redirects]]
+    from = "/*"
+    status = 200
+    to="/.netlify/functions/main"
