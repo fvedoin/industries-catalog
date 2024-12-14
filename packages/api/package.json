@@ -24,12 +24,13 @@
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
     "express-serve-static-core": "^0.1.1",
+    "iterare": "^1.2.1",
     "reflect-metadata": "^0.2.0",
     "rxjs": "^7.8.1",
     "serverless-http": "^3.2.0"
   },
   "devDependencies": {
-    "@nestjs/cli": "^10.0.0",
+    "@nestjs/cli": "^10.4.9",
     "@nestjs/schematics": "^10.0.0",
     "@nestjs/testing": "^10.0.0",
     "@types/express": "^5.0.0",
