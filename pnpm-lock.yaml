@@ -29,6 +29,9 @@ importers:
       '@netlify/zip-it-and-ship-it':
         specifier: ^9.42.0
         version: 9.42.0(rollup@4.28.1)
+      '@nuxtjs/opencollective':
+        specifier: ^0.3.2
+        version: 0.3.2
       body-parser:
         specifier: ^1.20.3
         version: 1.20.3
