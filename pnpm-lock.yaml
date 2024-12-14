@@ -38,6 +38,9 @@ importers:
       serverless-http:
         specifier: ^3.2.0
         version: 3.2.0
+      uid:
+        specifier: ^2.0.2
+        version: 2.0.2
     devDependencies:
       '@nestjs/cli':
         specifier: ^10.4.9
