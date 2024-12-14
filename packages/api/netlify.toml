@@ -1,5 +1,5 @@
 [build]
-    command ="pnpm run build"
+    command ="pnpm add -g @nestjs/cli && pnpm build"
     functions="dist"
 
 [[redirects]]
